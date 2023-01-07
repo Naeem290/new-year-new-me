@@ -256,7 +256,7 @@ img{
     font-weight: 400;
     font-size: 16px;
     margin-bottom: 24px;
-    line-height: 1em;
+    line-height: 1.5em;
 }
 
 .social-links a{
@@ -290,8 +290,8 @@ img{
 .form h3{
     font-weight: 600;
     font-size: 25px;
-    margin-top: 141px;
-    margin-bottom: 31px;
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 input{
